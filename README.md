@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaranP
-  I am a passionate final year computer science student
+  I am a passionate computer science graduate
  with fundamental knowledge of programming and software
  development,seeking to expand my technical and analytical
 skills.
